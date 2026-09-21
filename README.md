@@ -6,7 +6,7 @@
   <a href="https://mihir-patel-iota.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mihirpatel285">
+  <a href="https://www.linkedin.com/in/mihirpatel285/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mihirpatel3780@gmail.com">
@@ -334,8 +334,8 @@ I'm currently available for **freelance development projects**.
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge" />
 </a>
 
-<a href="www.linkedin.com/in/mihirpatel285">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/mihirpatel285/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mihirpatel3780@gmail.com">
