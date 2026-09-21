@@ -249,27 +249,40 @@ Worked on the production **Rectilineus** project.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihirPatel2805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirPatel2805&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="./profile/stats.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="170" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MihirPatel2805&theme=tokyonight&hide_border=true" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MihirPatel2805/MihirPatel2805/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MihirPatel2805/MihirPatel2805/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MihirPatel2805/MihirPatel2805/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/MihirPatel2805/MihirPatel2805/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
