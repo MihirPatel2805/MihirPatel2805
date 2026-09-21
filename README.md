@@ -1,74 +1,66 @@
-# Hi, I'm Mihir Patel 👋
+# 👋 Hi, I'm Mihir Patel
 
-### 🚀 Full-Stack Developer & Freelancer | AI/ML & Generative AI | React / Next.js / Node.js / FastAPI
+<h3 align="center">🚀 Full-Stack Developer & Freelancer | AI/ML & Generative AI</h3>
 
-I'm a **Full-Stack Developer and Freelance Software Engineer** from Ahmedabad, India, helping businesses and startups build **modern websites, web applications, SaaS products, and AI-powered solutions**.
+<p align="center">
+  <a href="https://mihir-patel-iota.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/mihirpatel285">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mihirpatel3780@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I work across the complete development lifecycle — from **idea → design → development → deployment**, with a focus on clean UI, scalable backend systems, automation, and production-ready applications.
-
-I'm available for **freelance projects, website development, SaaS development, AI integrations, and custom web applications**.
-
----
-
-## 💼 Freelance Development
-
-I work with businesses, startups, and individuals to build modern digital products.
-
-### 🌐 Websites
-
-* Business websites
-* Landing pages
-* Portfolio websites
-* Restaurant & hospitality websites
-* Salon, spa & wellness websites
-* E-commerce websites
-* Premium interactive websites
-* 2D/3D websites
-
-### 🚀 Web Applications
-
-* SaaS applications
-* Admin dashboards
-* Management systems
-* Customer portals
-* Booking platforms
-* E-commerce systems
-* Custom business applications
-
-### 🤖 AI & Automation
-
-* AI-powered web applications
-* LLM integrations
-* RAG applications
-* AI chatbots
-* Document Q&A systems
-* Workflow automation
-* AI-powered business tools
-
-### 🔌 Backend & Integrations
-
-* REST API development
-* Third-party API integrations
-* Database architecture
-* Authentication systems
-* Payment integrations
-* Custom business logic
-* Cloud deployment
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Freelance+Web+Developer;AI+%26+Generative+AI+Developer;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI;Building+Websites%2C+SaaS+%26+AI+Applications" />
+</p>
 
 ---
 
-## 🧑‍💻 What I Build
+## 💼 Available for Freelance Projects
 
-* 🌐 **Modern Business Websites** for companies and startups
-* 🏨 **Hospitality Websites** for hotels, resorts and travel businesses
-* 💇 **Salon, Spa & Wellness Websites**
-* 🛒 **E-commerce Platforms**
-* 🚀 **SaaS Products**
-* 🤖 **AI-powered Applications**
-* 🔗 **RAG & LLM Applications**
-* ⚙️ **Business Automation Systems**
-* 📊 **Admin Dashboards & Management Systems**
-* 🎨 **Interactive 2D/3D Web Experiences**
+I'm a **Full-Stack Developer & Freelancer** helping businesses, startups and individuals build modern digital products.
+
+I can help with:
+
+* 🌐 Premium business websites
+* 🏨 Hotel & resort websites
+* 🍽️ Restaurant websites
+* 💇 Salon, spa & wellness websites
+* 🛒 E-commerce websites
+* 🚀 SaaS applications
+* 📊 Admin dashboards & management systems
+* 🤖 AI-powered applications
+* 🧠 RAG & LLM applications
+* ⚙️ Business automation
+* 🔌 API & third-party integrations
+* 🎨 Interactive 2D/3D websites
+
+**Have an idea or need a website? Let's build it.**
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer from Ahmedabad, India**, focused on building production-ready web applications and AI-powered products.
+
+I enjoy working across the complete development lifecycle:
+
+**Idea → Architecture → Development → Integration → Deployment**
+
+My main interests are:
+
+* Full-stack web development
+* SaaS products
+* AI & Generative AI
+* LLM applications
+* RAG systems
+* Automation
+* Backend architecture
+* Interactive 2D/3D experiences
 
 ---
 
@@ -76,19 +68,29 @@ I work with businesses, startups, and individuals to build modern digital produc
 
 ### Frontend
 
-`React.js` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Bootstrap` `React Query` `Zustand` `Ant Design`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap" />
+</p>
 
 ### Backend
 
-`Node.js` `Express.js` `FastAPI` `Django` `REST APIs`
-
-### AI / Machine Learning
-
-`Python` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Seaborn` `LLMs` `RAG` `Generative AI` `LangChain` `LangGraph` `LangSmith`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+</p>
 
 ### Databases
 
-`MongoDB` `PostgreSQL` `MySQL` `MongoDB Atlas` `Qdrant` `FAISS`
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LangChain` `LangGraph` `LangSmith` `Gemini` `Generative AI` `LLMs` `RAG` `Scikit-learn` `Pandas` `NumPy`
 
 ### 3D / Graphics
 
@@ -96,196 +98,245 @@ I work with businesses, startups, and individuals to build modern digital produc
 
 ### DevOps & Tools
 
-`Git` `GitHub` `Docker` `Kubernetes` `AWS` `Vercel` `PM2` `Turborepo`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,vercel,vscode" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+# 🚀 Featured Projects
+
+## 🏢 Rectilineus
+
+**Interactive Floor Plan & Spatial Application**
+
+`React` `TypeScript` `Three.js` `React Three Fiber` `Konva`
+
+A production application involving interactive 2D floor plans and 3D spatial visualization.
+
+**Highlights**
+
+* Interactive 2D floor-plan editor
+* 3D visualization
+* Three.js integration
+* React Three Fiber
+* Konva canvas interactions
+* Complex spatial workflows
+* Production application
+
+---
+
+## 🤖 AI News Scraper & Summarizer
+
+**AI-powered news collection and summarization platform**
+
+`FastAPI` `PostgreSQL` `BeautifulSoup` `Gemini`
+
+**Highlights**
+
+* Automated news scraping
+* Article processing pipeline
+* PostgreSQL data storage
+* Gemini-powered summarization
+* FastAPI backend
+* AI-generated summaries
+
+---
+
+## 🏨 Aurelia Resort
+
+**Premium Interactive 3D Website**
+
+`React` `Three.js` `React Three Fiber` `TypeScript`
+
+A visually immersive resort website concept combining modern web design with interactive 3D experiences.
+
+🌐 **Live Demo:**
+https://aurelia-resort-three.vercel.app/
+
+---
+
+## 👕 Foliq
+
+**Clothing Inventory & Sales Management System**
+
+`MERN` `Python` `MongoDB`
+
+A custom business application designed around real-world clothing manufacturing and sales workflows.
+
+**Features**
+
+* Inventory management
+* Product management
+* Sales management
+* Business workflows
+* Database-driven application
+
+---
+
+## ✈️ TripCrafter
+
+**Travel Platform**
+
+`React` `Tailwind CSS` `Django`
+
+A modern travel platform inspired by popular travel-booking applications.
+
+---
+
+# 🤖 AI & Generative AI
+
+I'm actively exploring and building applications around **LLMs and Generative AI**.
+
+### Areas I'm working with
+
+* 🧠 Large Language Models
+* 🔎 Retrieval-Augmented Generation
+* 📚 Document Q&A
+* 🔗 Vector databases
+* 🔍 Semantic search
+* 🤖 AI chatbots
+* 🧩 AI agents
+* ⚙️ AI workflow automation
+* ✨ Prompt engineering
+* 🔢 Embeddings
+
+### Tools
+
+`Gemini` `LangChain` `LangGraph` `LangSmith` `Qdrant` `FAISS`
+
+---
+
+# 💼 Experience
 
 ### Full Stack Developer · N R Crew
 
 **2025 – 2026**
 
-Worked on production web applications and contributed across frontend development, backend systems, databases, APIs, interactive interfaces and deployment.
+Worked on production web applications across frontend, backend, APIs, databases and deployment.
 
-* Developed full-stack applications using **React, Next.js, Node.js, Django and FastAPI**.
-* Built responsive and interactive user interfaces.
+* Built applications using React, Next.js, Node.js, Django and FastAPI.
 * Developed REST APIs and backend services.
-* Worked with **MongoDB, PostgreSQL and MySQL**.
-* Built interactive 2D/3D functionality using **Three.js, React Three Fiber and Konva**.
-* Worked with authentication, APIs, databases and deployment.
-* Contributed to **Rectilineus**, a live production application.
-
----
+* Worked with MongoDB, PostgreSQL and MySQL.
+* Built interactive 2D/3D interfaces.
+* Worked with Three.js, React Three Fiber and Konva.
+* Integrated third-party APIs.
+* Worked on production application deployment and improvements.
 
 ### Web Development Intern · N R Crew
 
 **2025**
 
-Worked on the live **Rectilineus** project and contributed to frontend and backend development.
+Worked on the production **Rectilineus** project.
 
-* Built reusable React components.
-* Worked with TypeScript.
-* Integrated APIs and backend functionality.
-* Developed interactive application features.
-* Contributed to a production application.
-
----
-
-## 🌟 Selected Projects
-
-### 🏢 Rectilineus — Interactive Floor Plan Platform
-
-**React · TypeScript · Three.js · React Three Fiber · Konva**
-
-A production application involving interactive floor-plan and spatial visualization.
-
-* Built interactive 2D floor-plan interfaces.
-* Developed 3D visualization functionality.
-* Worked with Three.js and React Three Fiber.
-* Used Konva for interactive 2D canvas functionality.
-* Implemented complex spatial interactions.
+* React development
+* TypeScript
+* API integration
+* Interactive UI development
+* Production feature development
 
 ---
 
-### 🤖 AI News Scraper & Summarizer
+# 🎓 Education
 
-**FastAPI · PostgreSQL · BeautifulSoup · Gemini**
-
-An AI-powered application that collects online news articles and generates summaries using Generative AI.
-
-* Built the backend using FastAPI.
-* Scraped articles using BeautifulSoup.
-* Stored article data in PostgreSQL.
-* Integrated Gemini for AI summarization.
-* Created an automated article-processing pipeline.
-
----
-
-### 🏨 Aurelia Resort — Interactive 3D Website
-
-**React · Three.js · React Three Fiber · TypeScript**
-
-A premium resort website concept combining modern web design with interactive 3D experiences.
-
-* Built an interactive 3D environment.
-* Created animated website sections.
-* Developed a responsive frontend.
-* Focused on premium visual design and user experience.
-
-🌐 **Live:** https://aurelia-resort-three.vercel.app/
-
----
-
-### 👕 Foliq — Clothing Inventory & Sales Management
-
-**MERN Stack · Python · MongoDB**
-
-A custom business management system designed for a clothing manufacturing business.
-
-* Product and inventory management.
-* Sales management workflows.
-* Business data management.
-* Custom functionality based on real-world business requirements.
-
----
-
-### ✈️ TripCrafter — Travel Platform
-
-**React · Tailwind CSS · Django**
-
-A travel-booking platform inspired by modern travel applications.
-
-* Responsive React frontend.
-* Django backend.
-* Destination and travel interfaces.
-* Reusable UI components.
-
----
-
-## 🤖 AI & Generative AI
-
-I'm actively building applications around **LLMs, RAG and Generative AI**.
-
-Areas I work with:
-
-* Large Language Models
-* Retrieval-Augmented Generation
-* Vector databases
-* Semantic search
-* AI chatbots
-* Document Q&A
-* Embeddings
-* Prompt engineering
-* AI workflow automation
-* Gemini
-* LangChain
-* LangGraph
-
----
-
-## 📊 Data & Machine Learning
-
-I've worked with Python-based data and ML workflows using:
-
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
-
-Areas include:
-
-* Exploratory Data Analysis
-* Data visualization
-* Data preprocessing
-* Machine learning
-* Feature analysis
-* Dataset processing
-
----
-
-## 🎓 Education
-
-### Bachelor of Engineering / Technology · Computer Science & Technology
+### Bachelor of Computer Science & Technology
 
 **L.J. Institute of Engineering & Technology, Ahmedabad**
 
 **2022 – 2026**
 
-**CGPA: 8.68 / 10**
+🎓 **CGPA: 8.68 / 10**
 
 ---
 
-## 🎯 Currently Working On
+# 📊 GitHub Stats
 
-* 🚀 Freelance web development
-* 🤖 AI & Generative AI applications
-* 🧠 RAG and LLM systems
-* 🌐 Premium business websites
-* 🏨 Hospitality & service-business websites
-* ⚙️ SaaS applications
-* 🔗 Business automation
-* 🎨 Interactive 3D web experiences
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MihirPatel2805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihirPatel2805&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
-## 🤝 Available for Freelance Work
+# 🔥 GitHub Streak
 
-I'm currently open to working with:
-
-**Startups · Small Businesses · Agencies · Hotels & Resorts · Restaurants · Salons & Spas · E-commerce Businesses · SaaS Companies**
-
-If you need a **website, web application, SaaS product, AI integration, or custom software**, feel free to reach out.
-
-### Let's build something 🚀
-
-🌐 **Portfolio:** https://mihir-patel-iota.vercel.app/
-
-💼 **LinkedIn:** [Mihir Patel](https://www.linkedin.com/)
-
-📧 **Email:** `mihirpatel3780@gmail.com`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MihirPatel2805&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MihirPatel2805/MihirPatel2805/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🎯 Currently Focused On
+
+```text
+Full-Stack Development
+        ↓
+SaaS Applications
+        ↓
+AI / LLM Applications
+        ↓
+RAG & AI Agents
+        ↓
+Automation
+        ↓
+Freelance Projects
+```
+
+---
+
+# 🌍 Open to Freelance Work
+
+I'm currently available for **freelance development projects**.
+
+### I work with
+
+**Startups · Small Businesses · Agencies · Hotels · Resorts · Restaurants · Salons · E-commerce Businesses · SaaS Companies**
+
+### Services
+
+🌐 Website Development
+🚀 Full-Stack Web Applications
+🤖 AI Integration
+🧠 RAG / LLM Applications
+⚙️ Automation
+🎨 3D / Interactive Websites
+🔌 API Integrations
+📊 Admin Dashboards
+
+---
+
+# 🤝 Let's Work Together
+
+<p align="center">
+
+<a href="https://mihir-patel-iota.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge" />
+</a>
+
+<a href="www.linkedin.com/in/mihirpatel285">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mihirpatel3780@gmail.com">
+<img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
 
 ### 💡 Building products, not just projects.
 
-I enjoy turning real-world problems into **useful, scalable and visually engaging software**.
-
 **Full-Stack Development × AI × Automation × Freelancing**
+
+</p>
